@@ -1,50 +1,61 @@
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Oi%2C+eu+sou+o+Julio+Seabra;Estudante+de+ADS;Futuro+Dev+Back-end+Java;Aprendendo+Spring+Boot+e+MySQL" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Julio%20Seabra&fontSize=40&fontColor=00ff99&animation=fadeIn" />
+---
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00FF99&center=true&vCenter=true&width=500&lines=Java+Developer;Back-end+em+constru%C3%A7%C3%A3o;Spring+Boot+%2B+MySQL;Sempre+aprendendo" />
+## 👋 Olá, eu sou o Julio Seabra
 
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
+💻 Focado em desenvolvimento back-end e engenharia de software  
+☕ Estudando Java e Python  
+🧠 Interesse em sistemas, APIs, arquitetura e lógica de programação  
+
+---
+
+## 🚀 Tecnologias que estou estudando
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 </div>
 
 ---
 
-## 🧠 Sobre mim
-- 🎓 Estudante de ADS  
-- 💻 Focado em Back-end  
-- ☕ Java & Python  
-- 🚀 Estudando Spring Boot + MySQL  
+## 🛠 Tools
+
+- Git  
+- GitHub  
+- Visual Studio Code  
+- Windows  
+- Microsoft Office  
 
 ---
 
-## 🚀 Tecnologias que uso
+## 📚 Other Knowledge
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,python,git,github,html,css,figma,vscode" />
-
+<div style="display: flex; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
 </div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=juka700&show_icons=true&theme=radical" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juka700&layout=compact&theme=radical" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juka700&show_icons=true&theme=tokyonight)
 
 ---
 
-## ☕ Java all day
+## 📌 Studying in this moment
 
-<div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" />
-</div>
-
----
-
-## 🍩 ASCII Donut (efeito hacker)
-
-```bash
-cargo install forbidden-donut
-forbidden-donut
+- Java  
+- Spring Boot  
+- MySQL  
+- APIs REST  
+- Lógica de Programação  

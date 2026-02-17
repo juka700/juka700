@@ -2,21 +2,21 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Julio%20Seabra&fontSize=40&fontColor=00ff99&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00FF99&center=true&vCenter=true&width=500&lines=Java+Developer;Back-end+em+constru%C3%A7%C3%A3o;Spring+Boot+%2B+MySQL;Sempre+aprendendo" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00FF99&center=true&vCenter=true&width=500&lines=Java+Developer;Back-end+in+progress;Spring+Boot+%2B+MySQL;Always+learning" />
 
 </div>
 
 ---
 
-## 🧠 Sobre mim
-- 🎓 Estudante de ADS  
-- 💻 Focado em Back-end  
+## 🧠 About Me
+- 🎓 ADS (Systems Analysis and Development) student  
+- 💻 Focused on Back-end  
 - ☕ Java & Python  
-- 🚀 Estudando Spring Boot + MySQL  
+- 🚀 Studying Spring Boot + MySQL  
 
 ---
 
-## 🚀 Tecnologias que estou estudando
+## 🚀 Technologies I'm Studying
 
 <div align="center">
 
@@ -31,11 +31,10 @@
 ![GitHub followers](https://img.shields.io/github/followers/juka700?style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/juka700?style=for-the-badge)
 
+---
 
 ## ☕ Java all day
 
 <div align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" />
 </div>
-
-

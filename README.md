@@ -43,8 +43,6 @@
 
 ---
 
-## 🍩 ASCII Donut (efeito hacker)
 
-```bash
 cargo install forbidden-donut
 forbidden-donut

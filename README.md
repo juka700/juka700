@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 Tecnologias que uso
+## 🚀 Tecnologias que estou estudando
 
 <div align="center">
 
@@ -26,7 +26,7 @@
 
 ---
 
-## 📊 GitHub Stats (Alternative)
+## 📊 GitHub Stats 
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juka700&theme=tokyonight" />
 

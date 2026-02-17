@@ -1,35 +1,50 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&center=true&vCenter=true&width=800&lines=JULIO+SEABRA;ESTUDANTE+DE+ADS;JAVA+%2B+SPRING+BOOT;BACK-END+EM+FORMA%C3%87%C3%83O" />
-</p>
+<div align="center">
 
-# 👋 Olá, eu sou o Julio Seabra
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Julio%20Seabra&fontSize=40&fontColor=00ff99&animation=fadeIn" />
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
-💻 Focado em desenvolvimento back-end e engenharia de software  
-☕ Estudando Java e Python  
-🧠 Interesse em sistemas, APIs, arquitetura e lógica de programação  
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00FF99&center=true&vCenter=true&width=500&lines=Java+Developer;Back-end+em+constru%C3%A7%C3%A3o;Spring+Boot+%2B+MySQL;Sempre+aprendendo" />
+
+</div>
 
 ---
 
-## 🧰 Tecnologias que estou estudando
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+## 🧠 Sobre mim
+- 🎓 Estudante de ADS  
+- 💻 Focado em Back-end  
+- ☕ Java & Python  
+- 🚀 Estudando Spring Boot + MySQL  
+
+---
+
+## 🚀 Tecnologias que uso
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,python,git,github,html,css,figma,vscode" />
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juka700&show_icons=true&theme=tokyonight" />
-</p>
+
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=juka700&show_icons=true&theme=radical" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juka700&layout=compact&theme=radical" />
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="120" />
-  <br/>
-  <b>Java all day ☕</b>
-</p>
+## ☕ Java all day
+
+<div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" />
+</div>
+
+---
+
+## 🍩 ASCII Donut (efeito hacker)
+
+```bash
+cargo install forbidden-donut
+forbidden-donut

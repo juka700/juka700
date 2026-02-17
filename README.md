@@ -59,14 +59,8 @@
   </a>
 </div>
 
-----------------------
-<img src="...capsule-render..." />
-<img src="...typing-svg..." />
 
-<!-- COLE OS BOTÕES AQUI -->
-<div align="center">
-  ...
-</div>
+
 
 
 

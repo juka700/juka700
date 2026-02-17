@@ -28,7 +28,8 @@
 
 ## 📊 GitHub Stats 
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juka700&theme=tokyonight" />
+![GitHub followers](https://img.shields.io/github/followers/juka700?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/juka700?style=for-the-badge)
 
 
 ## ☕ Java all day

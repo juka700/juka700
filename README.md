@@ -50,7 +50,6 @@
 </div>
 
 
-[![Snake Game](https://raw.githubusercontent.com/juka700/snake-game/main/preview.png)](https://juka700.github.io/snake-game/)
 
 
 
